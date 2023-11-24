@@ -3,15 +3,14 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-         "Ruby!",    
-        "Sure, I haven't been the best",  // 同上...
-        "We do have disagreements", //
-        "But by God's grace,",
-        "We always find a way to move on",
+         "Mireille!",    
+        "I'm glad to have you",  // 同上...
+        "Even though it's for a period of time", //
+        "But let's live in the present",
+        "As much as we can",
         "I would like to tell you something",
-        "You're special",
-        "You have innumerous values",
-        "That an entire textbook can't contain",
+        "You're a beautiful being",
+        "You're so valuable",
         "I pray God to guide us to His path",
         "And to make this journey of ours",
         "To be the best",
@@ -30,7 +29,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "You're special": "./imgs/awah.png", 
+        "You're a beautiful being": "./imgs/awah.png", 
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
